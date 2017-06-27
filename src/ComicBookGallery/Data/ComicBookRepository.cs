@@ -13,7 +13,7 @@ namespace ComicBookGallery.Data
             new ComicBook()
             {
                 Id = 1,
-                SeriesTitle = "The Amazing Spiderman",
+                SeriesTitle = "The Amazing Spider-man",
                 IssueNumber = 700,
                 DescriptionHtml = "<p>Final issue! Witness the final "
                                 + "hours of Doctor Octopus' life and "
